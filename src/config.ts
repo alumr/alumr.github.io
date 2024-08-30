@@ -61,7 +61,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'Email',
       icon: 'material-symbols:mail',
-      url: 'https://store.steampowered.com',
+      url: 'tomail:alumr@qq.com',
     },
     {
       name: 'GitHub',

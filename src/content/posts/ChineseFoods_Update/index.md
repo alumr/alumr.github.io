@@ -1,6 +1,6 @@
 ---
 title: ChineseFoods 更新介绍
-published: 2024-08-30
+published: 2024-08-30 17:49:13
 description: 这篇文章包含了Chinese Foods所有版本的更新介绍。
 image: "./cover.png"
 tags: [Minecraft, Mod, Chinese Foods]
@@ -14,7 +14,7 @@ draft: false
 
 </div>
 
-Chinese Foods 简称 CF，是一个 [Minecraft](https://www.minecraft.net/) [Mod](https://baike.baidu.com/item/%E6%A8%A1%E7%BB%84/58377440)，为 Minecraft 带来了中国的美食。基于 [Fabric](https://fabricmc.net/) 开发，目前只支持 Minecraft 1.20.4 版本。
+‌&#12288;&#12288;Chinese Foods 简称 CF，是一个 [Minecraft](https://www.minecraft.net/) [Mod](https://baike.baidu.com/item/%E6%A8%A1%E7%BB%84/58377440)，为 Minecraft 带来了中国的美食。基于 [Fabric](https://fabricmc.net/) 开发，目前只支持 Minecraft 1.20.4 版本。
 
 ---
 
@@ -39,7 +39,7 @@ Chinese Foods 简称 CF，是一个 [Minecraft](https://www.minecraft.net/) [Mod
 
 #### B 站
 
-<iframe width="100%" height="448" src="//player.bilibili.com/player.html?isOutside=true&aid=113044713833528&bvid=BV1yxHMeyE9T&cid=25640110816&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="480" src="//player.bilibili.com/player.html?isOutside=true&aid=113044713833528&bvid=BV1yxHMeyE9T&cid=25640110816&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
@@ -67,7 +67,7 @@ Chinese Foods 简称 CF，是一个 [Minecraft](https://www.minecraft.net/) [Mod
 
 #### B 站
 
-<iframe width="100%" height="448" src="//player.bilibili.com/player.html?isOutside=true&aid=113044713833528&bvid=BV1yxHMeyE9T&cid=25640110816&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="480" src="//player.bilibili.com/player.html?isOutside=true&aid=113044713833528&bvid=BV1yxHMeyE9T&cid=25640110816&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
@@ -97,7 +97,7 @@ Chinese Foods 简称 CF，是一个 [Minecraft](https://www.minecraft.net/) [Mod
 
 #### B 站
 
-<iframe width="100%" height="448" src="//player.bilibili.com/player.html?isOutside=true&aid=112868301212078&bvid=BV1agvPeLEXJ&cid=500001631128895&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="480" src="//player.bilibili.com/player.html?isOutside=true&aid=112868301212078&bvid=BV1agvPeLEXJ&cid=500001631128895&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
@@ -127,7 +127,7 @@ Chinese Foods 简称 CF，是一个 [Minecraft](https://www.minecraft.net/) [Mod
 
 #### B 站
 
-<iframe width="100%" height="448" src="//player.bilibili.com/player.html?isOutside=true&aid=112868301212078&bvid=BV1agvPeLEXJ&cid=500001631128895&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="480" src="//player.bilibili.com/player.html?isOutside=true&aid=112868301212078&bvid=BV1agvPeLEXJ&cid=500001631128895&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
