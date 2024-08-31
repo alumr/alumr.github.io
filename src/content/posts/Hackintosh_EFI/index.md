@@ -7,6 +7,8 @@ category: 黑苹果
 draft: false
 ---
 
+<base target="_blank">
+
 <div align="center">
 
 # 黑苹果简介
@@ -19,17 +21,20 @@ draft: false
 
 ## 我的配置
 
-| 组件 | 型号 |
-| :---: | :---: |
-| CPU | AMD Ryzen 5 3500U |
-| GPU | AMD Radeon Vega 8 (iGPU) |
-| 内存 | 海力士 16GB 双通道 DDR4 |
-| 硬盘 | 西数 SN730 512G |
+|   组件   |            型号             |
+| :------: | :-------------------------: |
+|   CPU    |      AMD Ryzen 5 3500U      |
+|   GPU    |  AMD Radeon Vega 8 (iGPU)   |
+|   内存   |   海力士 16GB 双通道 DDR4   |
+|   硬盘   |       西数 SN730 512G       |
 | 无线网卡 | Intel Wi-Fi 6E AX210 160MHz |
-| 声卡 | Realtek ALC256 |
-| 相机 | ov9734_azurewave_camera |
-| SMBIOS | MacBookPro16,3 |
+|   声卡   |       Realtek ALC256        |
+|   相机   |   ov9734_azurewave_camera   |
+|  SMBIOS  |       MacBookPro16,3        |
 
-## EFI文件
+---
 
-[GitHub](https://github.com/herrnst/HuaweiMatebookD14AMD-OpenCore)
+## EFI 文件
+
+EFI 文件来自大佬 [herrnst](https://github.com/herrnst)
+::github{repo="herrnst/HuaweiMatebookD14AMD-OpenCore"}

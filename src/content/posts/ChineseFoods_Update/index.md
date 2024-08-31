@@ -8,6 +8,8 @@ category: Chinese Foods
 draft: false
 ---
 
+<base target="_blank">
+
 <div align="center">
 
 # Chinese Foods 简介
