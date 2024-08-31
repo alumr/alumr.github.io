@@ -1,17 +1,29 @@
 ---
-
 import { profileConfig } from '../config'
-import { url } from '../utils/url-utils'
+
+const days = new Date().getTime() - new Date('2024/08/30').getTime()
+const numberOfDays = (days / (1000 * 60 * 60 * 24)).toFixed()
 ---
 
-<div class="card-base max-w-[var(--page-width)] min-h-[4.5rem] rounded-b-none mx-auto flex items-center px-6">
-    <div class="transition text-50 text-sm">
-        © 2024 {profileConfig.name}. All Rights Reserved. /
-        <a class="link text-[var(--primary)] font-medium" target="_blank" href={url('rss.xml')}>RSS</a> /
-        <a class="link text-[var(--primary)] font-medium" target="_blank" href={url('sitemap-index.xml')}>Sitemap</a>
-        <br>
-        Powered by
-        <a class="link text-[var(--primary)] font-medium" target="_blank" href="https://astro.build">Astro</a> &
-        <a class="link text-[var(--primary)] font-medium" target="_blank" href="https://github.com/saicaca/fuwari">Fuwari</a>
-    </div>
+<div
+  class="card-base max-w-[var(--page-width)] min-h-[4.5rem] rounded-b-none mx-auto flex items-center px-6 py-4">
+  <div class="transition text-50 text-sm">
+    本站已运行 {numberOfDays} 天。
+    <br />
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">本站总访问量 <span id="busuanzi_value_site_pv"></span> 次。</span>
+            <br />
+            <br />
+    © 2024 {profileConfig.name}. All Rights Reserved.
+    <br />
+    Powered by <a class="link text-[var(--primary)] font-medium" target="_blank" href="https://astro.build">Astro</a> &
+    <a class="link text-[var(--primary)] font-medium" target="_blank" href="https://github.com/saicaca/fuwari">Fuwari</a>
+    <br />
+    <a
+      class="link text-[var(--primary)] font-medium"
+      href="https://icexaga.github.io/ba.html"
+      target="_blank"
+    >
+    </a>
+  </div>
 </div>
