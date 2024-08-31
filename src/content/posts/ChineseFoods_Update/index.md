@@ -140,5 +140,10 @@ draft: false
 ## 相关链接
 
 [Modrinth](https://modrinth.com/mod/chinesefoods) |
-[GitHub](https://github.com/alumr/ChineseFoods) |
-[蓝奏云](https://alums.lanzoue.com/b0r9i5spi) 提取码：`215a`
+[蓝奏云](https://alums.lanzoue.com/b0r9i5spi)
+
+提取码：`215a`
+
+### GitHub 存储库
+
+::github{repo="alumr/ChineseFoods"}
