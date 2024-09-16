@@ -22,7 +22,7 @@
     "@fontsource-variable/jetbrains-mono": "^5.0.22",
     "@fontsource/roboto": "^5.0.14",
     "@swup/astro": "^1.4.1",
-    "astro": "^4.15.0",
+    "astro": "^4.15.6",
     "astro-compress": "^2.3.1",
     "astro-icon": "^1.1.1",
     "colorjs.io": "^0.5.2",
@@ -47,7 +47,7 @@
     "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {
-    "@astrojs/ts-plugin": "^1.10.1",
+    "@astrojs/ts-plugin": "^1.10.2",
     "@biomejs/biome": "1.8.3",
     "@iconify-json/fa6-brands": "^1.1.22",
     "@iconify-json/fa6-regular": "^1.1.22",

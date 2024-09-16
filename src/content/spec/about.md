@@ -8,6 +8,10 @@
 - [爱发电](https://afdian.com/a/alumr)
 - [GitHub](https://github.com/alumr)
 
+### 我的性取向
+
+🏳‍🌈
+
 ### 我喜欢的 UP 主
 
 - [影视剧风](https://space.bilibili.com/946974)
