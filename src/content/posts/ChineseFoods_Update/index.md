@@ -1,7 +1,7 @@
 ---
-title: ChineseFoods 更新介绍
+title: ChineseFoods 介绍
 published: 2024-08-30 17:49:13
-description: 这篇文章包含了Chinese Foods所有版本的更新介绍。
+description: 这篇文章包含了Chinese Foods所有版本的更新日志。
 image: "./cover.png"
 tags: [Minecraft, Mod, Chinese Foods]
 category: Chinese Foods
@@ -17,6 +17,12 @@ draft: false
 </div>
 
 ‌&#12288;&#12288;Chinese Foods 简称 CF，是一个 [Minecraft](https://www.minecraft.net/) [Mod](https://baike.baidu.com/item/%E6%A8%A1%E7%BB%84/58377440)，为 Minecraft 带来了中国的美食。基于 [Fabric](https://fabricmc.net/) 开发，目前只支持 Minecraft 1.20.4 版本。
+
+## 我们的团队
+
+- [小矾同学](https://github.com/alumr)
+- [Richard Gates](https://github.com/Richard-Gates)
+- [IceXaga](https://github.com/IceXaga)
 
 ---
 
