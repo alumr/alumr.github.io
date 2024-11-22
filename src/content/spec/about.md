@@ -11,7 +11,6 @@
 ### 我喜欢的 UP 主
 
 - [影视剧风](https://space.bilibili.com/946974)
-- [老师好我叫何同学](https://space.bilibili.com/163637592)
 - [极客湾](https://space.bilibili.com/25876945)
 - [程序员鱼皮](https://space.bilibili.com/12890453)
 - [yike 陈](https://space.bilibili.com/485469670)
