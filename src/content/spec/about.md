@@ -2,7 +2,11 @@
 
 # 关于
 
-## 关于我
+## 我
+
+一名初中生
+
+## 社交平台
 
 - [Bilibili](https://space.bilibili.com/696637219)
 - [爱发电](https://afdian.com/a/alumr)
