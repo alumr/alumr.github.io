@@ -156,7 +156,7 @@ archinstall
 
 ![确认并退出](./insuser.png)
 
-#### 选择桌面环境
+#### 选择桌面环境（并不建议在此时选择，后面安装时可能会报错）
 
 进入 `Profile`，回车 `Type` 再回车 `Desktop` 选择自己喜欢的桌面环境后回车。（我选择[GNOME](https://www.gnome.org/)）
 
@@ -196,3 +196,28 @@ archinstall
 **温馨提示：** 如有报错请多试几次。
 
 ![开始安装](./install.png)
+
+## 常见问题
+
+### 安装桌面环境（如 GNOME、KDE）时报错
+
+![报错](./desktoperror.png)
+
+**解决方法：** 安装完成后重启登录自己的账户，在命令行输入
+
+```
+sudo pacman -S gnome gnome-tweaks
+```
+
+等待安装完成。
+
+接着输入
+
+```
+sudo systemctl enable gdm.service
+sudo systemctl start gdm.service
+```
+
+即可启动图形化界面。
+
+（KDE 请自行查阅资料）
