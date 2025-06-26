@@ -3,7 +3,7 @@ title: 我的世界启动器制作教程：准备工作
 published: 2025-01-23 18:16:14
 description: 我的世界启动器制作教程。
 image: "./cover.jpg"
-tags: [Minecraft, Minecraft Launcher]
+tags: [Minecraft, Minecraft Launcher, Tutorial]
 category: Minecraft Launcher
 draft: false
 ---

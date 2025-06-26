@@ -12,7 +12,7 @@ draft: false
 
 <div align="center">
 
-# Chinese Foods 简介
+## Chinese Foods 简介
 
 </div>
 
