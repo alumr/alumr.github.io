@@ -18,6 +18,10 @@ draft: false
 
 ‌&#12288;&#12288;[Arch Linux](https://archlinux.org/) (/ɑːrtʃ/)是一个独立开发的 [x86-64](https://baike.baidu.com/item/X86-64/1352293) 架构通用 [GNU/Linux](https://baike.baidu.com/item/GNU) 发行版，它致力于通过滚动更新来提供大多数软件的最新稳定版本。默认安装是一个最小的基本系统，由用户自行添加需要的软件。Arch Linux 使用 [pacman](https://baike.baidu.com/item/pacman) 作为包管理器。Arch Linux 采用滚动更新。Arch Linux 努力维护其软件的最新稳定版本，除非需要合理地避免系统包损坏。Arch Linux 以社区 [Wiki](https://baike.baidu.com/item/%E7%BB%B4%E5%9F%BA/10340758) 的形式提供文档，称为 [ArchWiki](https://wiki.archlinux.org/)。**（摘自 [Wikipedia](https://zh.wikipedia.org/wiki/Arch_Linux)）**
 
+## 视频教程
+
+<iframe width="100%" height="480" src="//player.bilibili.com/player.html?isOutside=true&aid=114755788409861&bvid=BV18uK6zcEur&cid=30730028497&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ## 准备工作
 
 ### 下载 Arch Linux 镜像
@@ -138,17 +142,17 @@ archinstall
 
 ![设置主机名](./inshn.png)
 
-#### 设置 root 账户的密码
+#### 设置 root 用户的密码
 
 进入 `Root password`
 
 输入两遍密码，回车设置完成。
 
-#### 创建账户
+#### 创建用户
 
 进入 `User account`
 
-进入第一项，先输入用户名再输入两遍密码，完毕后问你这个账户应不应该成为超级账户，在 `Yes` 选项上回车。
+进入第一项，先输入用户名再输入两遍密码，完毕后问你这个用户应不应该成为超级用户，在 `Yes` 选项上回车。
 
 ![超级账户](./inssudo.png)
 
