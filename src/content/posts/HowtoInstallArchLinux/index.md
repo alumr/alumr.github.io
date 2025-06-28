@@ -3,7 +3,7 @@ title: Arch Linux 安装教程
 published: 2025-06-25 17:00:50
 description: "本文是 Arch Linux 系统镜像的下载、烧录以及系统安装的教程。"
 image: "./cover.png"
-tags: [Arch Linux, Linux, Tutorial]
+tags: [Arch Linux, Linux, Guide]
 category: "Arch Linux"
 draft: false
 ---
