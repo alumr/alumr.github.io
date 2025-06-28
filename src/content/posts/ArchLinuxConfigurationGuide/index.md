@@ -63,7 +63,6 @@ sudo pacman -S gnome gnome-tweak-tool
 ```
 systemctl enable gdm.service
 systemctl start gdm.service
-
 ```
 
 以启动 `GNOME` 桌面环境。
