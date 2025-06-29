@@ -67,6 +67,28 @@ systemctl start gdm.service
 
 以启动 `GNOME` 桌面环境。
 
+## 安装浏览器
+
+### Firefox
+
+在终端输入
+
+```
+sudo pacman -S firefox
+```
+
+以安装 `Firefox` 浏览器。
+
+### Google Chrome
+
+在终端输入
+
+```
+yay -S google-chrome
+```
+
+以安装 `Google Chrome` 浏览器。
+
 ## 汉化及中文输入法
 
 ### 汉化
@@ -156,6 +178,12 @@ sudo pacman -S curl
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+或者
+
+```
+sh -c "$(curl -fsSL https://install.ohmyz.sh/)"
 ```
 
 以安装 `Oh My Zsh`。
