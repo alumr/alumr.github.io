@@ -40,8 +40,8 @@ Server = https://mirrors.ustc.edu.cn/archlinuxcn/$arch
 接着，在终端输入
 
 ```
-pacman -Sy archlinuxcn-keyring
-pacman -S yay
+sudo pacman -Sy archlinuxcn-keyring
+sudo pacman -S yay
 ```
 
 即可完成 `yay` 的安装。
@@ -53,7 +53,7 @@ pacman -S yay
 在终端输入
 
 ```
-sudo pacman -S gnome gnome-tweak-tool
+sudo pacman -S gnome gnome-tweaks
 ```
 
 以安装 `GNOME` 桌面环境。
@@ -61,8 +61,8 @@ sudo pacman -S gnome gnome-tweak-tool
 在终端输入
 
 ```
-systemctl enable gdm.service
-systemctl start gdm.service
+systemctl enable gdm
+systemctl start gdm
 ```
 
 以启动 `GNOME` 桌面环境。
@@ -169,7 +169,7 @@ ibus-setup
 在终端输入
 
 ```
-sudo pacman -S curl
+sudo pacman -S curl zsh
 ```
 
 以安装 `curl`。
